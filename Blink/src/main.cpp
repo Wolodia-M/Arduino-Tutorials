@@ -1,4 +1,4 @@
-// Blinking led on Arduino for PlatformIo=O
+// Blinking led on Arduino for PlatformIO
 // Copyright (C) 2022 WolodiaM
 
 // This program is free software: you can redistribute it and/or modify

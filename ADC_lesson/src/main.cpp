@@ -24,7 +24,7 @@
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);     // Почати передачу по послідовному порту
-  pinMode(POT, INPUT);    // Вставити пін як вхід
+  pinMode(POT, INPUT);    // Встановити пін як вхід
   pinMode(LED, OUTPUT);   // Встановити пін як вихід
 }
 
